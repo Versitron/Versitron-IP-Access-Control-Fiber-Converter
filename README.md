@@ -8,7 +8,7 @@ Versitron offers **rugged, high-performance fiber optic devices and switches** d
 
 **Reliable fiber connectivity for IP-based access control and security systems.**
 
-- Provides secure data transmission between IP readers, controllers, and central servers  
+- Provides secure data transmission between IP readers, controllers, and central servers   
 - Immune to electromagnetic interference (EMI) for stable performance  
 - Supports long-distance connectivity across buildings and perimeter zones  
 - Ensures continuous, low-latency operation in security-critical environments  
